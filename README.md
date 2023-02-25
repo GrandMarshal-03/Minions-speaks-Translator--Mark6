@@ -1,3 +1,3 @@
 # Minions-speaks-Translator--Mark6 (NeoGCamp assignment)
 
-Simple Translation app that translat english to minions speak
+Simple Translation app that translate english to minions language
