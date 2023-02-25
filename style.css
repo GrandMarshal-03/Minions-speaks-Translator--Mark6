@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Shantell Sans, sans-serif;
+  background-color: #f8f8f8;
+}
+
+.nav {
+  background-color: #ffe066;
+  text-align: center;
+}
+
+.header {
+  font-size: 2rem;
+  padding: 1rem;
+  text-transform: capitalize;
+}
+
+.app-container {
+  width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+
+.text-input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 20vh;
+  margin-top: 2rem;
+  font-size: large;
+  padding-inline-start: 5px;
+}
+
+.translate-button {
+  margin: 1rem 0rem;
+  font-size: large;
+  font-family: Shantell Sans, sans-serif;
+  background-color: #fff3bf;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+}
+
+.translated-txt {
+  padding: 1rem;
+  font-size: large;
+  border: 1px solid;
+  width: 100%;
+  min-height: 15vh;
+  max-height: 30vh;
+  overflow: scroll;
+}
+
+footer {
+  position: fixed;
+  margin-top: 30px;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  background-color: #ffd43b;
+}
